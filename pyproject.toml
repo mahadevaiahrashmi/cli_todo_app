@@ -1,0 +1,9 @@
+# agent-notes: { ctx: "python project metadata", deps: [], state: active, last: "sato@2026-04-07" }
+[project]
+name = "todo-cli"
+version = "0.1.0"
+description = "Single-user CLI todo app with due date and status tracking"
+requires-python = ">=3.12"
+
+[project.scripts]
+todo-cli = "todo_cli.main:main"
