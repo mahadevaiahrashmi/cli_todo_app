@@ -3,6 +3,8 @@
 
 Single-user Python command-line todo application.
 
+Built with Codex GPT-5.3.
+
 ## Features
 
 - Create, read, update, and delete tasks
